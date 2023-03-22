@@ -35,7 +35,7 @@ $ cd Phase-4-Code-Challenge-Pizzas
 ~~~
 
 Install gems with:
-```
+``` 
 bundle install
 ```
 Setup database with:
